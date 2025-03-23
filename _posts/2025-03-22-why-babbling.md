@@ -71,7 +71,9 @@ My carrer as a research assistant in Aachen has been a long and eventful journey
 
 At the end of the day, I can’t fully express how grateful I am—to my dear friends (e.g., Dr. Schönitz, Dr. Ennen, Dr. Wen, Dr. Hsu) and to some unexpected but amazing mentors (e.g., Prof. Tim Barfoot, Dr. Hsu)—for sharing their time, insights, and encouragement with me throughout my research journey.
 
-And that’s exactly why I want to start blogging: to share those **memories**, and to talk about the **problems** and the **inconsistency** we encounter in research, work, and life.
+And that’s exactly why I want to start blogging: 
+* to share those **memories**, and
+* to talk about the **problems** and the **inconsistency** we encounter in research, work, and life.
 
 I’m not sure if you’ve had the same experiences as I have. but what I’m certain of is that you’ll find some joy and inspiration in my blog. Or even better, share your comments and insights. :smile:
 
