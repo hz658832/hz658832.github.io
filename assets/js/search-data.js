@@ -141,7 +141,7 @@ ninja.data = [{
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@www.youtube.com/@HaomingZhang-lx8lr", "_blank");
+          window.open("https://youtube.com/@HaomingZhang-lx8lr", "_blank");
         },
       },{
       id: 'light-theme',
