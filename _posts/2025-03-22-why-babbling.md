@@ -3,7 +3,7 @@ layout: distill
 title: Why I am Babbling Here?
 date: 2025-03-22 11:59:00-0400
 description: A brief introduction of this blog
-tags: distill formatting
+tags: story
 giscus_comments: true
 featured: true
 mermaid:

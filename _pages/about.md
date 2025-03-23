@@ -48,4 +48,4 @@ I find the problem statement of the state estimation within the Bayesian framewo
 
 I believe this fundamental inconsistency resonates with many researchers working in this area. After all, we are all, in one way or another, disturbed by twisted truths or violations of integrity—whether in data, models, or life. 
 
-This happens to be one reason why I started writing my <a href='blog'>blogs</a>—a space where I share my experiences and thoughts with you.>
+This happens to be one reason why I started writing my <a href='blog'>blogs</a>—a space where I share my experiences and thoughts with you.
