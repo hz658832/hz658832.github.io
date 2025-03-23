@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2025-03-13
+inline: true
+related_posts: false
+---
+
+I attended the 1st German Robotics Conference to present my poster "Learning-based GNSS Uncertainty Quantification using Continuous-Time Factor Graph Optimization".

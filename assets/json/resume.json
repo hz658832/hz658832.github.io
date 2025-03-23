@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Haoming Zhang",
-    "label": "Research Engineer",
+    "label": "Research Assistant",
     "image": "",
     "email": "haoming.zhang@rwth-aachen.de",
     "phone": "",
@@ -104,7 +104,7 @@
     {
       "name": "Programming (experienced)",
       "level": "Master",
-      "icon": "fas fa-code",
+      "icon": "fas fa-terminal",
       "keywords": [
         "C/C++",
         "Python"
@@ -168,35 +168,35 @@
     }
   ],
   "references": [
-    {
-      "name": "Prof. Dr. Timothy D. Barfoot",
-      "icon": "fa-graduation-cap",
-      "reference": ""
-    },
-    {
-      "name": "Prof. Dr.-Ing. Dirk Abel",
-      "icon": "fa-graduation-cap",
-      "reference": ""
-    },
-    {
-      "name": "Prof. Dr.-Ing. Heike Vallery",
-      "icon": "fa-graduation-cap",
-      "reference": ""
-    },
-    {
-      "name": "Prof. Dr. Li-Ta Hsu",
-      "icon": "fa-graduation-cap",
-      "reference": ""
-    }
+    //{
+   //   "name": "Prof. Dr. Timothy D. Barfoot",
+    //  "icon": "fa-graduation-cap",
+    //  "reference": ""
+    //},
+    //{
+    //  "name": "Prof. Dr.-Ing. Dirk Abel",
+    //  "icon": "fa-graduation-cap",
+    //  "reference": ""
+    //},
+    //{
+    //  "name": "Prof. Dr.-Ing. Heike Vallery",
+    //  "icon": "fa-graduation-cap",
+    //  "reference": ""
+    //},
+    //{
+    //  "name": "Prof. Dr. Li-Ta Hsu",
+    //  "icon": "fa-graduation-cap",
+    //  "reference": ""
+    //}
   ],
   "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
+    //{
+    //  "name": "Quantum Computing",
+    //  "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+    //  "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+    //  "startDate": "2018-01-01",
+    //  "endDate": "2018-01-01",
+    //  "url": "https://example.com"
+   // }
   ]
 }
