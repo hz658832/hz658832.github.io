@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Candidate</a> at RWTH Aachen University, Germany
+subtitle: <a href='#'>PhD Candidate</a> at RWTH Aachen University, Germany.
 
 profile:
   align: right
@@ -27,8 +27,25 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Welcome to my page**! :smile:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a robotics researcher, and my current research interests include:
+* robust state estimation under <a href='#'>non-Gaussian noise</a>,
+* SLAM and its derived problem statements,
+* variational Bayesian inference for online model identification, and
+* learning-based methods for outlier handling.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Building on my current research experience, I am also exploring new topics such as:
+* reinforcement learning for online hyperparameter tunning,
+* planning and control through inference, and
+* active perception from both intrinsic and extrinsic system perspectives.
+
+From 2020 to 2024, I worked as a research associate (wiss. Mitarbeiter) at the <a href='https://www.irt.rwth-aachen.de/go/id/iung/'>Institute of Automatic Control</a>, RWTH Aachen University, Germany.
+
+From 2017 to 2020, I worked as a research engineer at the Cybernetics Lab, RWTH Aachen University, Germany (which, unfortunately, no longer exists :joy:).
+
+I find the problem statement of the state estimation within the Bayesian framework particularly attractive. At its core, we are basically solving a “**trust**” problem in the presence of **inconsistent information** (or inconsistent "truth" parameterization). 
+
+I believe this fundamental inconsistency resonates with many researchers working in this area. After all, we are all, in one way or another, disturbed by twisted truths or violations of integrity—whether in data, models, or life. 
+
+This happens to be one reason why I started writing my <a href='blog'>blogs</a>—a space where I share my experiences and thoughts with you.
