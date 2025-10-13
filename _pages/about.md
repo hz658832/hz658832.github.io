@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Candidate</a> at RWTH Aachen University, Germany.
+subtitle: <a href='#'>Postdoctoral Researcher</a> at Technical University of Munich.
 
 profile:
   align: right
@@ -39,6 +39,8 @@ Building on my current research experience, I am also exploring new topics such 
 * reinforcement learning for online hyperparameter tunning,
 * planning and control through inference, and
 * active perception from both intrinsic and extrinsic system perspectives.
+
+Starting from Oct. 2025, I am happy to join the <a href='https://www.ce.cit.tum.de/lsy/home/'>Learning Systems and Robotics Lab</a> at the Technical University of Munich as a postdoctoral researcher under the supervision of <a href='https://www.ce.cit.tum.de/lsy/prof-angela-schoellig/'>**Prof. Angela Schoellig**</a>, <a href='https://www.professoren.tum.de/leutenegger-stefan'>**Prof. Stefan Leutenegger**</a>, and <a href='https://hex-lab.io/author/daniel-roth/'>**Prof. Daniel Roth**</a>. 
 
 From 2020 to 2024, I worked as a research associate (wiss. Mitarbeiter) at the <a href='https://www.irt.rwth-aachen.de/go/id/iung/'>Institute of Automatic Control</a>, RWTH Aachen University, Germany.
 

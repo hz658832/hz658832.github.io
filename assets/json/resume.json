@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Haoming Zhang",
-    "label": "Research Assistant",
+    "label": "Postdoctoral Researcher",
     "image": "",
-    "email": "haoming.zhang@rwth-aachen.de",
+    "email": "haoming.zhang[at]tum.de",
     "phone": "",
     "url": "https://hz658832.github.io/",
     "summary": "A robotics researcher with a passion for state estimation.",
     "location": {
       "address": ".",
       "postalCode": ".",
-      "city": "Aachen",
+      "city": "Munich",
       "countryCode": "DE",
       "region": "NRW"
     },
@@ -23,6 +23,16 @@
     ]
   },
   "work": [
+    {
+      "name": "Learning Systems and Robotics Lab, Technical University of Munich",
+      "position": "Postdoctoral Researcher",
+      "url": "https://www.ce.cit.tum.de/lsy/home/",
+      "location": "Munich, Germany",
+      "startDate": "2025-10-02",
+      "endDate": "-",
+      "summary": "Project leader on autonomous drone perception;<br>Research on state estimation and 3D reconstruction",
+      "highlights": ["Active Sensor Fusion", "Real-Time 3D Reconstruction"]
+    },
     {
       "name": "Institute of Automatic Control, RWTH Aachen University",
       "position": "Research Assistant",
