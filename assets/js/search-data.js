@@ -58,12 +58,21 @@ ninja.data = [{
           section: "News",},{id: "news-i-attended-the-1st-german-robotics-conference-to-present-my-poster-learning-based-gnss-uncertainty-quantification-using-continuous-time-factor-graph-optimization",
           title: 'I attended the 1st German Robotics Conference to present my poster “Learning-based GNSS...',
           description: "",
-          section: "News",},{id: "news-workshop-proposal-on-quot-robot-meets-gnss-quot-has-been-submitted-to-ieee-iros2025",
-          title: 'Workshop proposal on &amp;quot;Robot Meets GNSS&amp;quot; has been submitted to IEEE IROS2025.',
+          section: "News",},{id: "news-workshop-proposal-robot-meets-gnss-and-ranging-has-been-submitted-to-ieee-icra2026",
+          title: 'Workshop proposal Robot Meets GNSS and Ranging has been submitted to IEEE ICRA2026....',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20250315_robotmeetsgnss/";
-            },},{id: "projects-project-1",
+            },},{id: "news-our-paper-svn-icp-uncertainty-estimation-of-icp-based-lidar-odometry-using-stein-variational-newton-has-been-accepted-by-the-ieee-robotics-and-automation-letters-looking-forward-to-connecting-and-meeting-you-at-ieee-icra-2029-in-vienna",
+          title: 'Our paper SVN-ICP: Uncertainty Estimation of ICP-based LiDAR Odometry using Stein Variational Newton...',
+          description: "",
+          section: "News",},{id: "news-my-paper-robust-statistics-vs-machine-learning-vs-bayesian-inference-insights-into-handling-faulty-gnss-measurements-for-robust-vehicle-localization-pretty-much-a-micro-view-of-my-dissertation-has-been-accepted-to-the-workshop-siav-fm2l-safety-of-intelligent-and-autonomous-vehicles-formal-methods-vs-machine-learning-approaches-for-reliable-navigation-at-ieee-iros-2025",
+          title: 'My paper Robust Statistics vs. Machine Learning vs. Bayesian Inference: Insights into Handling...',
+          description: "",
+          section: "News",},{id: "news-come-and-join-us-at-the-4th-workshop-on-intelligent-vehicle-meets-urban",
+          title: 'Come and join us at the 4th workshop on Intelligent Vehicle Meets Urban!....',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -113,7 +122,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%68%61%6F%6D%69%6E%67.%7A%68%61%6E%67@%72%77%74%68-%61%61%63%68%65%6E.%64%65", "_blank");
+          window.open("mailto:%68%61%6F%6D%69%6E%67.%7A%68%61%6E%67@%74%75%6D.%64%65", "_blank");
         },
       },{
         id: 'social-github',
